@@ -1,8 +1,8 @@
 {
-  "name": "topic-extraction",
+  "name": "extract-topics",
   "version": "1.0.0",
   "description": "Extract topics from text using LDA",
-  "main": "topicExtraction.js",
+  "main": "extractTopics.js",
   "type": "module",
   "scripts": {
     "example": "node example.js",
