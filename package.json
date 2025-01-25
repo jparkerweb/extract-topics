@@ -1,16 +1,30 @@
 {
   "name": "topic-extraction",
   "version": "1.0.0",
-  "description": "",
+  "description": "Extract topics from text using LDA",
   "main": "topicExtraction.js",
   "type": "module",
   "scripts": {
     "example": "node example.js",
     "clean": "npx rimraf node_modules package-lock.json && npm install"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "lda",
+    "topic",
+    "extraction",
+    "text",
+    "nlp"
+  ],
+  "author": "Justin Parker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jparkerweb/extract-topics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jparkerweb/extract-topics/issues"
+  },
+  "homepage": "https://github.com/jparkerweb/extract-topics#readme",
+  "license": "MIT",
   "dependencies": {
     "ldawithmorelanguages": "https://github.com/jparkerweb/lda",
     "sentence-parse": "^1.3.0"
