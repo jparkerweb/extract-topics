@@ -1,5 +1,5 @@
-# lda-test
-🧪 Latent Dirichlet Allocation test (extract topics from text)
+# 👽 Topic Extraction
+Use LDA (Latent Dirichlet Allocation) to extract topics from text
 
 Simple example project demonstrating Latent Dirichlet Allocation (LDA) for topic modeling on text documents.
 
