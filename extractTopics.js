@@ -8,7 +8,7 @@ import { parseSentences } from 'sentence-parse';
 // ------------------------------
 // -- extract topics from text --
 // ------------------------------
-export async function topicExtraction(text, {
+export async function extractTopics(text, {
     numTopics = 2,
     numTerms = 5
 } = {}) {
