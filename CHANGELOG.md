@@ -7,4 +7,3 @@ All notable changes to this project will be documented in this file.
 - Initial release
 - `topicExtraction` function for LDA-based topic analysis
 - Configurable number of topics and terms per extraction
-- Inteligent Sentence parsing
