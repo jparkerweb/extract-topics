@@ -3,6 +3,8 @@ Use LDA (Latent Dirichlet Allocation) to extract topics from text
 
 Simple NPM package for using Latent Dirichlet Allocation (LDA) for topic modeling on text inputs.
 
+![extract-topics](extractTopics.jpg)
+
 ## Install
 
 Install dependencies:
