@@ -1,6 +1,6 @@
 {
   "name": "extract-topics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extract topics from text using LDA",
   "main": "extractTopics.js",
   "type": "module",
@@ -27,6 +27,6 @@
   "license": "MIT",
   "dependencies": {
     "ldawithmorelanguages": "https://github.com/jparkerweb/lda",
-    "sentence-parse": "^1.3.0"
+    "sentence-parse": "^1.3.1"
   }
 }
